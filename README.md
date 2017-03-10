@@ -11,5 +11,6 @@ Pour te décomplexer du Swift
 
 * Gérer le JSON en Swift en mode bourrin <https://developer.apple.com/swift/blog/?id=37>
 
-* Générer des classes ObjectMapper Swift à partir d'un exemple JSON
-	* <http://parse-amol.rhcloud.com/>
+* Générer des classes Swift à partir d'un exemple JSON
+	* Pour ObjectMapper <http://parse-amol.rhcloud.com/>
+	* <https://github.com/ijoshsmith/json2swift>
