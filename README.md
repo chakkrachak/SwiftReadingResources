@@ -15,3 +15,5 @@ Pour te décomplexer du Swift
 	* Pour ObjectMapper <http://parse-amol.rhcloud.com/>
 	* <https://github.com/ijoshsmith/json2swift>
 	* <https://github.com/insanoid/SwiftyJSONAccelerator>
+
+* Mapper un JSON dans une instance de classe <https://github.com/utahiosmac/Marshal>	
