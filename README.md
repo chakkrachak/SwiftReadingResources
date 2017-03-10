@@ -14,3 +14,4 @@ Pour te décomplexer du Swift
 * Générer des classes Swift à partir d'un exemple JSON
 	* Pour ObjectMapper <http://parse-amol.rhcloud.com/>
 	* <https://github.com/ijoshsmith/json2swift>
+	* <https://github.com/insanoid/SwiftyJSONAccelerator>
