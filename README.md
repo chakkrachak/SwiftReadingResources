@@ -17,3 +17,25 @@ Pour te décomplexer du Swift
 	* <https://github.com/insanoid/SwiftyJSONAccelerator>
 
 * Mapper un JSON dans une instance de classe <https://github.com/utahiosmac/Marshal>	
+
+# Simple commands to start
+## Ionic 2
+### Create a project
+```
+ionic start SearchSchedulesIonic blank --v2
+```
+
+### Create a plugin
+```
+plugman create --name HelloPluginCordovaSwift --plugin_id cordova-plugins-helloswift --plugin_version 0.0.1 --path .
+```
+
+### Plugin to make Swift plugin
+```
+cordova plugin add cordova-plugin-add-swift-support --save
+```
+
+### Supercommand
+```
+cordova plugin rm cordova-plugin-helloplugin && cordova plugin add ../HelloPluginCordova && cordova plugin rm cordova-plugins-helloswift && cordova plugin add ../HelloPluginCordovaSwift && ionic emulate ios --target="iPhone-5s"
+```
