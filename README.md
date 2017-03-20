@@ -31,6 +31,8 @@ plugman create --name HelloPluginCordovaSwift --plugin_id cordova-plugins-hellos
 ```
 
 ### Plugin to make Swift plugin
+<https://github.com/bitjson/cordova-plugin-swift-support>
+
 ```
 cordova plugin add cordova-plugin-add-swift-support --save
 ```
