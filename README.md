@@ -18,6 +18,13 @@ Pour te décomplexer du Swift
 
 * Mapper un JSON dans une instance de classe <https://github.com/utahiosmac/Marshal>	
 
+# Material design things
+## Colors
+<https://www.materialpalette.com/cyan/pink>
+
+## UIs
+<https://material.uplabs.com/>
+
 # Simple commands to start
 ## Ionic 2
 ### Create a project
