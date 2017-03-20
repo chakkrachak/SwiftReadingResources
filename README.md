@@ -18,6 +18,21 @@ Pour te décomplexer du Swift
 
 * Mapper un JSON dans une instance de classe <https://github.com/utahiosmac/Marshal>	
 
+* Xcode things
+	* <https://robots.thoughtbot.com/building-ios-interfaces-custom-button>
+	* <https://robots.thoughtbot.com/building-ios-interfaces-swift-primer>
+	* <https://robots.thoughtbot.com/building-ios-interfaces-views>
+	* <https://www.appcoda.com/custom-search-bar-tutorial/>
+
+* Clean Swift
+	* <http://clean-swift.com/clean-swift-ios-architecture/>
+	* <https://cocoacasts.com/swift-and-model-view-viewmodel-in-practice/> 	
+* Cocoapods
+	* <https://www.raywenderlich.com/97014/use-cocoapods-with-swift> 
+
+* Unit tests
+	* <https://x-team.com/blog/how-to-get-started-with-ios-unit-tests-in-swift/> 
+
 # Material design things
 ## Colors
 <https://www.materialpalette.com/cyan/pink>
