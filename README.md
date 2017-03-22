@@ -67,7 +67,21 @@ cordova plugin add cordova-plugin-add-swift-support --save
 ### Supercommand
 ```
 cordova plugin rm cordova-plugin-helloplugin && cordova plugin add ../HelloPluginCordova && cordova plugin rm cordova-plugins-helloswift && cordova plugin add ../HelloPluginCordovaSwift && ionic emulate ios --target="iPhone-5s"
+
 ```
+
+### Big steps for a Cordova Swift plugin
+<http://moduscreate.com/writing-a-cordova-plugin-in-swift-for-ios/>
+
+* Create project {project}
+* Create plugin {plugin}
+	* Add cordova-plugin-add-swift-support dependancy in plugin
+	* Add {plugin}.swift and reference it in plugin.xml
+	* Add functions in {plugin}.swift and use it in {plugin}.js
+	* If you want to use more code, include it and reference it in plugin.xml
+	* Do a Bridge-header and reference it in plugin.xml
+* Add {plugin} in {project}
+* Build  
 
 ### Ionic 2 things
 <https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html>
