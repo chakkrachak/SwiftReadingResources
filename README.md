@@ -57,6 +57,7 @@ ionic cordova emulate android --livereload
 <http://moduscreate.com/plugin-authoring-cordova-6-ios-android/>
 ```
 plugman create --name HelloPluginCordovaSwift --plugin_id cordova-plugins-helloswift --plugin_version 0.0.1 --path .
+plugman createpackagejson .
 ```
 
 ### Plugin to make Swift plugin
