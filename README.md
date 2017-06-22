@@ -1,7 +1,7 @@
 # SwiftReadingResources
 
 ## Videos
-Pour te décomplexer du Swift
+### Pour te décomplexer du Swift
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/AzesJrOcFDU/0.jpg)](http://www.youtube.com/watch?v=AzesJrOcFDU)
 
 ## Articles
