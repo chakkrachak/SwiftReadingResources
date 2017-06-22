@@ -44,7 +44,11 @@ Pour te décomplexer du Swift
 ## Ionic 2
 ### Create a project
 ```
-ionic start SearchSchedulesIonic blank --v2
+ionic start SearchSchedulesIonic blank
+```
+### Launch on emulator with livereload
+```
+ionic cordova emulate android --livereload
 ```
 
 ### Create a plugin
